@@ -27,14 +27,14 @@ MediaConductor is a software package designed for seamless, gapless video playba
    ```bash
    ./setup.sh
 
-##Configuration
+## Configuration
 **MediaConductor uses a set of folders to determine video playback behavior:**
 
 - **loop**: Clips placed here will loop continuously.
 - **trigger**: Clips here will play upon a specific trigger.
 - **schedule**: Clips here will play based on a set schedule.
 
-##Web Interface
+## Web Interface
 **To access the configuration interface:**
 
   1. Open your web browser and navigate to http://<your_device_ip>.
